@@ -1,4 +1,4 @@
-### [WIP] Hi there 👋
+### Hi there I am Prakash Chokalingam 👋
 
 <!--
 **prakashchokalingam/prakashchokalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
