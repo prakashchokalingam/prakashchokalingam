@@ -1,6 +1,6 @@
 ### Hi there I am Prakash Chokalingam 👋
 
-I’m currently working @ [Freshworks Inc](https://www.freshworks.com/) as a Senior Software Developer
+I’m currently working @ [Freshworks Inc](https://www.freshworks.com/) as a Lead Software Developer
 
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=prakashchokalingam)
 
