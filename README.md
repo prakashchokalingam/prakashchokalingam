@@ -1,6 +1,6 @@
 ### Hi there I am Prakash Chokalingam 👋
 
-I’m currently working @ [Freshworks Inc](https://www.freshworks.com/) as a Lead Software Developer, contributor @ [webcored](https://github.com/webcored)
+I’m currently working @ [Happyfolks Inc](https://www.happyfolks.io/) , contributor @ [webcored](https://github.com/webcored)
 
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=prakashchokalingam)
 
